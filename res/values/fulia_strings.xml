@@ -12,4 +12,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- FuliaUI dashboard -->
+    <string name="fuliasettings_title">Fulia Settings</string>
+    
+    <!-- Hardware info -->
+    <string name="platform_revision">Platform</string>
+    <string name="total_ram">Total RAM</string>
+
 </resources>
